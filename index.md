@@ -1,4 +1,4 @@
-# Han's Family secret recipes
+# Han's clan secret recipes
 
 Set of recipes as given by my grandma.
 
